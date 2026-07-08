@@ -4,6 +4,6 @@ public String evenOrOdd(Integer num) {
         return 'even';
 
     }else {
-        retuen 'odd';
+        return 'odd';
     }
 }
